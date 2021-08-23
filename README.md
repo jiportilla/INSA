@@ -17,7 +17,7 @@ assistant = AssistantV2(
 
 ## Testing with CURL
 
-Replace `apikey}` and `{url}` with your service credentials.
+Replace `{apikey}` and `{url}` with your service credentials.
 
 curl -X {request_method} -u "apikey:{apikey}" "{url}/v2/{method}"
 
